@@ -5,5 +5,7 @@ def CalculoIdade(Nascimento, AnoAtual):
     idade = AnoAtual - Nascimento
     return idade
 idade = CalculoIdade(Nascimento, AnoAtual)
+python
 print(Nome)
+main
 print(idade)
